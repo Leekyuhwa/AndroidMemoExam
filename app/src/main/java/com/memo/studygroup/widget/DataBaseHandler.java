@@ -11,9 +11,6 @@ import com.memo.studygroup.vo.MemoVO;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by coupang on 2015. 6. 25..
- */
 public class DataBaseHandler extends SQLiteOpenHelper implements CRUDOperations {
 
 	private static final int DATABASE_VERSION = 1;

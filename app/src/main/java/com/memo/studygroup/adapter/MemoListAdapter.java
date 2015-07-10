@@ -13,9 +13,6 @@ import com.memo.studygroup.vo.MemoVO;
 
 import java.util.List;
 
-/**
- * Created by coupang on 2015. 6. 24..
- */
 public class MemoListAdapter extends BaseAdapter {
 
 	private final LayoutInflater inflater;

@@ -4,9 +4,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-/**
- * Created by coupang on 2015. 6. 28..
- */
 public class DateUtil {
 
 	private static final String DATE_FORMAT = "yyyy.MM.dd";
